@@ -2,6 +2,7 @@ import React from "react";
 import Image from "next/image";
 
 function AboutUs() {
+  // This page is designed to be responsive and visually appealing
   return (
     <div className="bg-gray-100 min-h-screen flex flex-col justify-center items-center">
       {/* Hero Section */}
